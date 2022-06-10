@@ -1,0 +1,29 @@
+.link {
+    text-decoration: none;
+    color: #fff;
+    margin: 0 20px;
+}
+.link:hover {
+    color: #38BDED;
+}
+.menu-navbar {
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #111827;
+}
+.logo {
+    color: #fff;
+    font-size: 30px;
+    margin-left: 20px;
+}
+.logo span {
+    margin-left: 20px;
+}
+.menu {
+    display: flex;
+    font-size: 24px;
+    font-weight: 600;
+    align-items: center;
+}

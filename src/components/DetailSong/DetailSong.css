@@ -1,0 +1,31 @@
+.detail-heading{
+    color: #38BDF8;
+    font-size: 16px;
+    
+}
+.detail-name-song{
+    color: #ccc;
+    font-size: 30px;
+    margin: 0;
+    padding-top: 4px;
+    font-weight: 600;
+    opacity: 0.8;
+}
+.detail-avatar-singer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 30px 0;
+}
+.detail-avatar {
+    width: 60%;
+}
+.detail-avatar-album{
+    width: 10%;
+    border-radius: 50%;
+}
+.detail-name-singer {
+    margin-left: 100px;
+    color: #fff;
+    font-size: 20px;
+}

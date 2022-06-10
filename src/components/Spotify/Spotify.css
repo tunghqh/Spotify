@@ -1,0 +1,30 @@
+ul {
+    margin: 0;
+    list-style: none;
+    color: #fff;
+}
+.spotify {
+    background-color: #FFCDD2;
+    height: calc(100vh - 160px);
+    text-align: center;
+}
+.spotify-container{
+    padding-top: 160px;
+}
+.spotify-h1 {
+    margin: 0;
+    font-size: 80px;
+    color: #C12F16;
+}
+.btn-free {
+    background-color: #C12F16;
+    color: #fff;
+    border: none;
+    height: 60px;
+    width: 200px;
+    border-radius: 500px;
+    margin: 20px 0;
+}
+.spotify-p {
+    color: #C12F16;
+}

@@ -1,0 +1,41 @@
+table { border-collapse:collapse }
+.table-list {
+    /* height: calc(100vh - 200px); */
+    overflow-y: scroll;
+}
+.table-song{
+    width: 100%;
+}
+.List-head {
+    color: #fff;
+    text-align: left;
+    height: 40px;
+}
+.td-center {
+    text-align: center;
+    padding-left: 20px;
+}
+.body-list {
+    color: #ccc;
+    opacity: 0.8;
+    padding-left: 60px;
+    height: 40px;
+
+}
+.body-list:hover {
+    background-color: #475569;
+    cursor: pointer;
+}
+.icon-download {
+    color: #ccc;
+}
+.body-bg {
+    background-color: #1E293B;
+}
+.pdl-60 {
+    padding-left: 60px;
+}
+.active {
+    color: #5EEAD4;
+    background-color: #475569;
+}
