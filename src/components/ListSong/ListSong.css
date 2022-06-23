@@ -1,6 +1,6 @@
 table { border-collapse:collapse }
 .table-list {
-    /* height: calc(100vh - 200px); */
+    height: calc(100vh - 200px);
     overflow-y: scroll;
 }
 .table-song{
@@ -10,6 +10,10 @@ table { border-collapse:collapse }
     color: #fff;
     text-align: left;
     height: 40px;
+    position: sticky;
+    z-index: 99;
+    top: 0;
+    background-color: #334155;
 }
 .td-center {
     text-align: center;

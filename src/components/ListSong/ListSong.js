@@ -15,7 +15,7 @@ function ListSong() {
   return (
     <div className="c-8 table-list">
       <table className="table-song">
-        <thead className="List-head">
+        <thead className="List-head c-8">
           <tr>
             <th className="pdl-60">#</th>
             <th>Title</th>

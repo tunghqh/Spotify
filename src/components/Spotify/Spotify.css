@@ -1,30 +1,65 @@
 ul {
-    margin: 0;
-    list-style: none;
-    color: #fff;
+  margin: 0;
+  list-style: none;
+  color: #fff;
 }
 .spotify {
-    background-color: #FFCDD2;
-    height: calc(100vh - 160px);
-    text-align: center;
 }
-.spotify-container{
-    padding-top: 160px;
+.spotify-container {
+}
+.be-happy {
+  padding-top: 160px;
+  height: calc(100vh - 320px);
+  text-align: center;
+  background-color: #ffcdd2;
 }
 .spotify-h1 {
-    margin: 0;
-    font-size: 80px;
-    color: #C12F16;
+  margin: 0;
+  font-size: 80px;
+  color: #c12f16;
 }
 .btn-free {
-    background-color: #C12F16;
-    color: #fff;
+  background-color: #c12f16;
+  color: #fff;
+  border: none;
+  height: 60px;
+  width: 200px;
+  border-radius: 500px;
+  margin: 20px 0;
+}
+.spotify-p {
+  color: #c12f16;
+}
+.lokking {
+  padding-top: 160px;
+  height: calc(100vh - 320px);
+  text-align: center;
+  background-color: #2941ab;
+  background-image: url(https://content-tooling.spotifycdn.com/images/b236bf87-bfd5-4bcb-b51a-77881073039c_lie_circles.svg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.lokking-text{
+    color: #1ED760;
+    text-align: left;
+    margin-left: 220px;
+    margin-top: 90px;
+
+}
+.lokking-text h1 {
+    font-size: 60px;
+}
+.lokking-text p {
+    font-size: 24px;
+}
+.lokking-text button {
+    background-color: #1ED760;
+    color: #2941AB;
     border: none;
     height: 60px;
     width: 200px;
     border-radius: 500px;
     margin: 20px 0;
-}
-.spotify-p {
-    color: #C12F16;
+    font-weight: 600;
 }
